@@ -1,0 +1,15 @@
+.cuerpo{
+    width: 70%;
+    margin:auto;
+    background-image: url(img/fondo.jpg);
+}
+
+.carousel-inner img {
+    border-radius: 20px;
+    max-height: 500px;
+}
+
+.titulo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(245, 209, 156);
+}
